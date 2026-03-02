@@ -1,1 +1,6 @@
 /* Add Global styles here */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #daeeff;
+    color:rgb(82, 140, 190);
+}
