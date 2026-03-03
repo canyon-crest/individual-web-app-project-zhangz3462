@@ -4,3 +4,11 @@ body{
     background-color: #daeeff;
     color:rgb(82, 140, 190);
 }
+
+header{
+    background-color: rgb(82, 140, 190);
+    color:#f0f8ff;
+    padding: 1rem;
+    
+
+}
